@@ -1,0 +1,20 @@
+{
+    "id": "8",
+    "title": "InterContinental Hà Nội Westlake",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "05 P. Từ Hoa, Quảng An, Tây Hồ, Hà Nội, Việt Nam",
+    "phone": "02462708888",
+    "description": "Khu vực ven hồ thượng lưu mang nét đặc trưng riêng với các nhà hàng toàn cầu thanh lịch, quán bar sành điệu và Chùa Trấn Quốc cổ kính.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 5900000,
+    "coordinate": {
+      "latitude": 21.058267,
+      "longitude": 105.831428
+    },
+    "totalReview": 4.6
+  },

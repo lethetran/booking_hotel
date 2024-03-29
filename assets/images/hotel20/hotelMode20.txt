@@ -1,0 +1,20 @@
+{
+    "id": "20",
+    "title": "L7 WEST LAKE HANOI BY LOTTE",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "Ngõ 683 Đ. Lạc Long Quân, Phú Thượng, Tây Hồ, Hà Nội 100000, Việt Nam",
+    "phone": "02433339000",
+    "description": "Khu vực ven hồ thượng lưu mang nét đặc trưng riêng với các nhà hàng toàn cầu thanh lịch, quán bar sành điệu và Chùa Trấn Quốc cổ kính.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 3020000,
+    "coordinate": {
+      "latitude": 21.074151,
+      "longitude": 105.812492
+    },
+    "totalReview": 4.7
+  },

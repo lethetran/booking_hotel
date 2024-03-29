@@ -1,0 +1,72 @@
+[
+    {
+      "name": "Khách sạn 1",
+      "location": "Hà Nội",
+      "address": "Số 1, Đại Cồ Việt, Hai Bà Trưng, Hà Nội",
+      "description": "Khách sạn 1 nằm ở trung tâm thành phố Hà Nội, cách Hồ Gươm 1km. Khách sạn 1 có hồ bơi, phòng tập gym, nhà hàng và quán bar.",
+      "thumbnailPath": "assets/images/hotel1.jpg",
+      "imagePaths": [
+        "assets/images/hotel1.jpg",
+        "assets/images/hotel2.jpg",
+        "assets/images/hotel3.jpg",
+        "assets/images/hotel4.jpg"
+      ],
+      "ratingScore": 4.5
+    },
+    {
+      "name": "Khách sạn 2",
+      "location": "Hồ Chí Minh",
+      "address": "Số 2, Nguyễn Huệ, Quận 1, Hồ Chí Minh",
+      "description": "Khách sạn 2 nằm ở trung tâm thành phố Hồ Chí Minh, cách chợ Bến Thành 1km. Khách sạn 2 có hồ bơi, phòng tập gym, nhà hàng và quán bar.",
+      "thumbnailPath": "assets/images/hotel2.jpg",
+      "imagePaths": [
+        "assets/images/hotel2.jpg",
+        "assets/images/hotel3.jpg",
+        "assets/images/hotel4.jpg",
+        "assets/images/hotel1.jpg"
+      ],
+      "ratingScore": 4.0
+    },
+    {
+      "name": "Khách sạn 3",
+      "location": "Đà Nẵng",
+      "address": "Số 3, Trần Phú, Quận Hải Châu, Đà Nẵng",
+      "description": "Khách sạn 3 nằm ở trung tâm thành phố Đà Nẵng, cách bãi biển Mỹ Khê 1km. Khách sạn 3 có hồ bơi, phòng tập gym, nhà hàng và quán bar.",
+      "thumbnailPath": "assets/images/hotel3.jpg",
+      "imagePaths": [
+        "assets/images/hotel3.jpg",
+        "assets/images/hotel4.jpg",
+        "assets/images/hotel1.jpg",
+        "assets/images/hotel2.jpg"
+      ],
+      "ratingScore": 4.5
+    },
+    {
+      "name": "Khách sạn 4",
+      "location": "Nha Trang",
+      "address": "Số 4, Trần Phú, Nha Trang",
+      "description": "Khách sạn 4 nằm ở trung tâm thành phố Nha Trang, cách bãi biển Nha Trang 1km. Khách sạn 4 có hồ bơi, phòng tập gym, nhà hàng và quán bar.",
+      "thumbnailPath": "assets/images/hotel4.jpg",
+      "imagePaths": [
+        "assets/images/hotel4.jpg",
+        "assets/images/hotel1.jpg",
+        "assets/images/hotel2.jpg",
+        "assets/images/hotel3.jpg"
+      ],
+      "ratingScore": 4.0
+    },
+    {
+      "name": "Khách sạn 5",
+      "location": "Hà Nội",
+        "address": "Số 5, Đại Cồ Việt, Hai Bà Trưng, Hà Nội",
+        "description": "Khách sạn 5 nằm ở trung tâm thành phố Hà Nội, cách Hồ Gươm 1km. Khách sạn 5 có hồ bơi, phòng tập gym, nhà hàng và quán bar.",
+        "thumbnailPath": "assets/images/hotel5.jpg",
+        "imagePaths": [
+          "assets/images/hotel5.jpg",
+          "assets/images/hotel1.jpg",
+          "assets/images/hotel2.jpg",
+          "assets/images/hotel3.jpg"
+        ],
+        "ratingScore": 4.5
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "id": "14",
+    "title": "The Five Residences Hanoi",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "No.345 P. Đội Cấn, Liễu Giai, Ba Đình, Hà Nội 10000, Việt Nam", 
+    "phone": "02433117555",
+    "description": "Khu vực thanh bình có Bảo tàng Hồ Chí Minh và Vườn Bách thảo Hà Nội cùng nhiều hàng quán bình dân bán đồ Việt.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 2990000,
+    "coordinate": {
+      "latitude": 21.036349,
+      "longitude": 105.816740
+    },
+    "totalReview": 4.8
+  },

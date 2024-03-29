@@ -1,0 +1,21 @@
+{
+    "id": "5",
+    "title": "22housing Vinhomes Dcapitale",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "1 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Việt Nam",
+    "phone": "0765141111",
+    "description": "Khu vực nhộn nhịp mang nét đặc trưng riêng với các triển lãm dân gian tại Bảo tàng Dân tộc học, cùng các món ăn dân dã của Việt Nam và Hàn Quốc..",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 2500000,
+    "coordinate": {
+      "latitude": 21.005524,
+      "longitude": 105.794188
+    },
+    "totalReview": 4.3
+  },
+

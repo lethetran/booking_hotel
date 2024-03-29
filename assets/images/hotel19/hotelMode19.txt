@@ -1,0 +1,20 @@
+{
+    "id": "19",
+    "title": "Sheraton Hanoi Hotel",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "K5, Đ. Nghi Tàm/11 Đ. Xuân Diệu, Quảng An, Tây Hồ, Hà Nội, Việt Nam",
+    "phone": "02437199000",
+    "description": "Khu vực ven hồ thượng lưu mang nét đặc trưng riêng với các nhà hàng toàn cầu thanh lịch, quán bar sành điệu và Chùa Trấn Quốc cổ kính.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 4760000,
+    "coordinate": {
+      "latitude": 21.059658,
+      "longitude": 105.831779
+    },
+    "totalReview": 4.5
+  },

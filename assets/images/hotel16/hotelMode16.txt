@@ -1,0 +1,20 @@
+{
+    "id": "16",
+    "title": "La Sinfonía Citadel Hotel and Spa",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "12-14 P. Đình Ngang, Cửa Nam, Hoàn Kiếm, Hà Nội, Việt Nam",
+    "phone": "02432535111",
+    "description": "Khu vực trung tâm ghi dấu ấn riêng với các cửa hàng đồ thủ công và ẩm thực đường phố trong khu phố cổ, cùng Nhà thờ Lớn Hà Nội.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 4060000,
+    "coordinate": {
+      "latitude": 21.028352,
+      "longitude": 105.842337
+    },
+    "totalReview": 4.7
+  },

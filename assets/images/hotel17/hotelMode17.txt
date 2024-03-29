@@ -1,0 +1,20 @@
+{
+    "id": "17",
+    "title": "Khách Sạn Movenpick Hà Nội",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "83A P. Lý Thường Kiệt, Cửa Nam, ward, Hà Nội 100000, Việt Nam",
+    "phone": "02438222800",
+    "description": "Khu vực trung tâm ghi dấu ấn riêng với các cửa hàng đồ thủ công và ẩm thực đường phố trong khu phố cổ, cùng Nhà thờ Lớn Hà Nội.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 3120000,
+    "coordinate": {
+      "latitude": 21.025150,
+      "longitude": 105.844036
+    },
+    "totalReview": 4.5
+  },

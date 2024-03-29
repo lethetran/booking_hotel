@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1",
+    "title": "Intercontinental Hanoi Landmark Hotel",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel1/avatar.png",
+    "address": "Urban Area, Keangnam Hanoi Landmark Tower, Plot E6, Keangnam, Cầu Giấy, Hà Nội, Việt Nam",
+    "phone": "02436988888",
+    "description": " Khách sạn thoáng mát, sang trọng và cao tầng này có tầm nhìn ra thành phố Hà Nội, cách Trung Tâm Hội Nghị Quốc Gia 2 km và cách Sân bay Quốc tế Nội Bài 25 km.",
+    "imagePaths": [
+      "assets/images/hotel1/gallery1.jpg",
+      "assets/images/hotel1/gallery2.jpg",
+      "assets/images/hotel1/gallery3.jpg"
+    ],
+    "price": 178.98,
+    "coordinate": {
+      "latitude": 21.016806,
+      "longitude": 105.783722
+    },
+    "ratingScore": 4.5
+  },
+  {
+    "id": "2",
+    "title": "Aspaces Serviced Apartments",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel2/avatar.png",
+    "address": " Vinhomes West Point, Phạm Hùng, Mễ Trì, Nam Từ Liêm, Hà Nội 10000, Việt Nam",
+    "phone": "0866615777",
+    "description": "Phục vụ chu đáo, tận tâm",
+    "imagePaths": [
+      "assets/images/hotel2/gallery1.jpg",
+      "assets/images/hotel2/gallery2.jpg",
+      "assets/images/hotel2/gallery3.jpg"
+    ],
+    "price": 55.93,
+    "coordinate": {
+      "latitude": 21.011662,
+      "longitude": 105.785940
+    },
+    "ratingScore": 5
+  },
+  {
+    "id": "3",
+    "title": "Hotel The Hanoi",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel3/avatar.png",
+    "address": "lô 3B P. Thâm Tâm, Yên Hoà, Cầu Giấy, Hà Nội, Việt Nam",
+    "phone": "02432011711",
+    "description": " Phục vụ chu đáo, tận tình.",
+    "imagePaths": [
+      "assets/images/hotel3/gallery1.jpg",
+      "assets/images/hotel3/gallery2.jpg",
+      "assets/images/hotel3/gallery3.jpg"
+    ],
+    "price": 26.85,
+    "coordinate": {
+      "latitude": 21.016143,
+      "longitude": 105.799089
+    },
+    "ratingScore": 4.9
+  }, 
+  {
+    "id": "4",
+    "title": "JW Marriott Hotel Hanoi",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel4/avatar.png",
+    "address": "No 8 P. Đỗ Đức Dục, Road, Nam Từ Liêm, Hà Nội 100000, Việt Nam",
+    "phone": "02438335588",
+    "description": " Khách sạn sang trọng nằm trong tòa nhà ven hồ đẹp mắt, cách Trung tâm Hội nghị Quốc gia Việt Nam 8 phút đi bộ, cách khu Phố cổ sôi động 9 km và cách Sân bay Quốc tế Nội Bài 27 km..",
+    "imagePaths": [
+      "assets/images/hotel4/gallery1.jpg",
+      "assets/images/hotel4/gallery2.jpg",
+      "assets/images/hotel4/gallery3.jpg"
+    ],
+    "price": 161.08,
+    "coordinate": {
+      "latitude": 21.006963,
+      "longitude": 105.783059
+    },
+    "ratingScore": 4.7
+  },
+  {
+    "id": "5",
+    "title": "22housing Vinhomes Dcapitale",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel5/avatar.png",
+    "address": "1 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Việt Nam",
+    "phone": "0765141111",
+    "description": " Khu vực nhộn nhịp mang nét đặc trưng riêng với các triển lãm dân gian tại Bảo tàng Dân tộc học, cùng các món ăn dân dã của Việt Nam và Hàn Quốc..",
+    "imagePaths": [
+      "assets/images/hotel5/gallery1.jpg",
+      "assets/images/hotel5/gallery2.jpg",
+      "assets/images/hotel5/gallery3.jpg"
+    ],
+    "price": 55.93,
+    "coordinate": {
+      "latitude": 21.005524,
+      "longitude": 105.794188
+    },
+    "ratingScore": 4.3
+  },
+  {
+    "id": "6",
+    "title": "Roygent Parks Hanoi",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel6/avatar.png",
+    "address": "289 Khuất Duy Tiến, Trung Hoà, Cầu Giấy, Hà Nội, Việt Nam",
+    "phone": "02432323760",
+    "description": " Khu vực nhộn nhịp mang nét đặc trưng riêng với các triển lãm dân gian tại Bảo tàng Dân tộc học, cùng các món ăn dân dã của Việt Nam và Hàn Quốc.",
+    "imagePaths": [
+      "assets/images/hotel6/gallery1.jpg",
+      "assets/images/hotel6/gallery2.jpg",
+      "assets/images/hotel6/gallery3.jpg"
+    ],
+    "price": 38.03,
+    "coordinate": {
+      "latitude": 21.002031,
+      "longitude": 105.793531
+    },
+    "ratingScore": 4.6
+  },
+  {
+    "id": "7",
+    "title": "Grand Mercure Hanoi",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel7/avatar.png",
+    "address": "9 P. Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội 100000, Việt Nam",
+    "phone": "02432115757",
+    "description": " Khu phố nhộn nhịp để lại dấu ấn riêng với khung cảnh ẩm thực đa dạng và khu phức hợp Văn Miếu - Quốc Tử Giám.",
+    "imagePaths": [
+      "assets/images/hotel7/gallery1.jpg",
+      "assets/images/hotel7/gallery2.jpg",
+      "assets/images/hotel7/gallery3.jpg"
+    ],
+    "price": 95.31,
+    "coordinate": {
+      "latitude": 21.027455,
+      "longitude": 105.833389
+    },
+    "ratingScore": 4.7
+  },
+  {
+    "id": "8",
+    "title": "InterContinental Hà Nội Westlake",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel8/avatar.png",
+    "address": "05 P. Từ Hoa, Quảng An, Tây Hồ, Hà Nội, Việt Nam",
+    "phone": "02462708888",
+    "description": " Khu vực ven hồ thượng lưu mang nét đặc trưng riêng với các nhà hàng toàn cầu thanh lịch, quán bar sành điệu và Chùa Trấn Quốc cổ kính.",
+    "imagePaths": [
+      "assets/images/hotel8/gallery1.jpg",
+      "assets/images/hotel8/gallery2.jpg",
+      "assets/images/hotel8/gallery3.jpg"
+    ],
+    "price": 132,
+    "coordinate": {
+      "latitude": 21.058267,
+      "longitude": 105.831428
+    },
+    "ratingScore": 4.6
+  },
+  {
+    "id": "9",
+    "title": "Capella Hanoi",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel9/avatar.png",
+    "address": "11 P. Lê Phụng Hiểu, French Quarter, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+    "phone": "02439878888",
+    "description": " Khu vực trung tâm ghi dấu ấn riêng với các cửa hàng đồ thủ công và ẩm thực đường phố trong khu phố cổ, cùng Nhà thờ Lớn Hà Nội.",
+    "imagePaths": [
+      "assets/images/hotel9/gallery1.jpg",
+      "assets/images/hotel9/gallery2.jpg",
+      "assets/images/hotel9/gallery3.jpg"
+    ],
+    "price": 469.83,
+    "coordinate": {
+      "latitude": 21.025725,
+      "longitude": 105.856706
+    },
+    "ratingScore": 4.8
+  },
+  {
+    "id": "10",
+    "title": "Fraser Residence Hà Nội",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel10/avatar.png",
+    "address": "C5 Đường Đỗ Nhuận, Xuân Đỉnh, Bắc Từ Liêm, Hà Nội 100000, Việt Nam",
+    "phone": "02432750888",
+    "description": " Khách sạn toàn phòng suite trang nhã này là một toà cao ốc đẹp mắt, cách công viên (có hồ nước) 2 phút đi bộ, cách Bảo tàng Dân tộc học Việt Nam 4 km và cách Sân bay Quốc tế Nội Bài 18 km.",
+    "imagePaths": [
+      "assets/images/hotel10/gallery1.jpg",
+      "assets/images/hotel10/gallery2.jpg",
+      "assets/images/hotel10/gallery3.jpg"
+    ],
+    "price": 46.31,
+    "coordinate": {
+      "latitude": 21.016806,
+      "longitude": 105.783722
+    },
+    "ratingScore": 4.8
+  },
+  {
+    "id": "11",
+    "title": "Sofitel Legend Metropole Hotel",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel11/avatar.png",
+    "address": "15 P. Ngô Quyền, Street, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+    "phone": "02438266919",
+    "description": " Khu vực trung tâm ghi dấu ấn riêng với các cửa hàng đồ thủ công và ẩm thực đường phố trong khu phố cổ, cùng Nhà thờ Lớn Hà Nội.",
+    "imagePaths": [
+      "assets/images/hotel11/gallery1.jpg",
+      "assets/images/hotel11/gallery2.jpg",
+      "assets/images/hotel11/gallery3.jpg"
+    ],
+    "price": 223.51,
+    "coordinate": {
+      "latitude": 21.025083,
+      "longitude": 105.856311
+    },
+    "ratingScore": 4.7
+  },
+  {
+    "id": "12",
+    "title": "Khách sạn Lotte Hà Nội",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel12/avatar.png",
+    "address": "54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Việt Nam",
+    "phone": "02433331000",
+    "description": " Khu vực thanh bình có Bảo tàng Hồ Chí Minh và Vườn Bách thảo Hà Nội cùng nhiều hàng quán bình dân bán đồ Việt.",
+    "imagePaths": [
+      "assets/images/hotel12/gallery1.jpg",
+      "assets/images/hotel12/gallery2.jpg",
+      "assets/images/hotel12/gallery3.jpg"
+    ],
+    "price": 86.58,
+    "coordinate": {
+      "latitude": 21.031696,
+      "longitude": 105.812755
+    },
+    "ratingScore": 4.6
+  },
+  {
+    "id": "13",
+    "title": "Dolce By Wyndham Hanoi Golden Lake",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel13/avatar.png",
+    "address": "B7, Ba Đình, Hà Nội 100000, Việt Nam",
+    "phone": "02433659999",
+    "description": " Khu vực thanh bình có Bảo tàng Hồ Chí Minh và Vườn Bách thảo Hà Nội cùng nhiều hàng quán bình dân bán đồ Việt.",
+    "imagePaths": [
+      "assets/images/hotel13/gallery1.jpg",
+      "assets/images/hotel13/gallery2.jpg",
+      "assets/images/hotel13/gallery3.jpg"
+    ],
+    "price": 78.75,
+    "coordinate": {
+      "latitude": 21.029180,
+      "longitude": 105.821162
+    },
+    "ratingScore": 4.4
+  },
+  {
+    "id": "14",
+    "title": "The Five Residences Hanoi",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel14/avatar.png",
+    "address": "No.345 P. Đội Cấn, Liễu Giai, Ba Đình, Hà Nội 10000, Việt Nam", 
+    "phone": "02433117555",
+    "description": " Khu vực thanh bình có Bảo tàng Hồ Chí Minh và Vườn Bách thảo Hà Nội cùng nhiều hàng quán bình dân bán đồ Việt.",
+    "imagePaths": [
+      "assets/images/hotel14/gallery1.jpg",
+      "assets/images/hotel14/gallery2.jpg",
+      "assets/images/hotel14/gallery3.jpg"
+    ],
+    "price": 66.89,
+    "coordinate": {
+      "latitude": 21.036349,
+      "longitude": 105.816740
+    },
+    "ratingScore": 4.8
+  },
+  {
+    "id": "15",
+    "title": "Pullman Hanoi Hotel",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel15/avatar.png",
+    "address": "Str Entrance, 40, P. Cát Linh/61 P. Giảng Võ, Hà Nội 010000, Việt Nam",
+    "phone": "02437330688",
+    "description": " Khu phố nhộn nhịp để lại dấu ấn riêng với khung cảnh ẩm thực đa dạng và khu phức hợp Văn Miếu - Quốc Tử Giám.",
+    "imagePaths": [
+      "assets/images/hotel15/gallery1.jpg",
+      "assets/images/hotel15/gallery2.jpg",
+      "assets/images/hotel15/gallery3.jpg"
+    ],
+    "price": 64.43,
+    "coordinate": {
+      "latitude": 21.029847,
+      "longitude": 105.828513
+    },
+    "ratingScore": 4.4
+  },
+  {
+    "id": "16",
+    "title": "La Sinfonía Citadel Hotel and Spa",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel16/avatar.png",
+    "address": "12-14 P. Đình Ngang, Cửa Nam, Hoàn Kiếm, Hà Nội, Việt Nam",
+    "phone": "02432535111",
+    "description": " Khu vực trung tâm ghi dấu ấn riêng với các cửa hàng đồ thủ công và ẩm thực đường phố trong khu phố cổ, cùng Nhà thờ Lớn Hà Nội.",
+    "imagePaths": [
+      "assets/images/hotel16/gallery1.jpg",
+      "assets/images/hotel16/gallery2.jpg",
+      "assets/images/hotel16/gallery3.jpg"
+    ],
+    "price": 90.83,
+    "coordinate": {
+      "latitude": 21.028352,
+      "longitude": 105.842337
+    },
+    "ratingScore": 4.7
+  },
+  {
+    "id": "17",
+    "title": "Khách Sạn Movenpick Hà Nội",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel17/avatar.png",
+    "address": "83A P. Lý Thường Kiệt, Cửa Nam, ward, Hà Nội 100000, Việt Nam",
+    "phone": "02438222800",
+    "description": " Khu vực trung tâm ghi dấu ấn riêng với các cửa hàng đồ thủ công và ẩm thực đường phố trong khu phố cổ, cùng Nhà thờ Lớn Hà Nội.",
+    "imagePaths": [
+      "assets/images/hotel17/gallery1.jpg",
+      "assets/images/hotel17/allery2.jpg",
+      "assets/images/hotel17/gallery3.jpg"
+    ],
+    "price": 69.80,
+    "coordinate": {
+      "latitude": 21.025150,
+      "longitude": 105.844036
+    },
+    "ratingScore": 4.5
+  },
+  {
+    "id": "18",
+    "title": "Hotel du Parc Hanoi",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel18/avatar.png",
+    "address": "84 P. Trần Nhân Tông, Nguyễn Du, Hai Bà Trưng, Hà Nội 100000, Việt Nam",
+    "phone": "02438223535",
+    "description": " Khu vực đông đúc dân cư ghi dấu ấn riêng với hoạt động chèo thuyền trong Công viên Thống Nhất, Thủy cung Times City và các nhà hàng sushi.",
+    "imagePaths": [
+      "assets/images/hotel18/gallery1.jpg",
+      "assets/images/hotel18/gallery2.jpg",
+      "assets/images/hotel18/gallery3.jpg"
+    ],
+    "price": 42.73,
+    "coordinate": {
+      "latitude": 21.017677,
+      "longitude": 105.842029
+    },
+    "ratingScore": 4.4
+  },
+  {
+    "id": "19",
+    "title": "Sheraton Hanoi Hotel",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel19/avatar.png",
+    "address": "K5, Đ. Nghi Tàm/11 Đ. Xuân Diệu, Quảng An, Tây Hồ, Hà Nội, Việt Nam",
+    "phone": "02437199000",
+    "description": " Khu vực ven hồ thượng lưu mang nét đặc trưng riêng với các nhà hàng toàn cầu thanh lịch, quán bar sành điệu và Chùa Trấn Quốc cổ kính.",
+    "imagePaths": [
+      "assets/images/hotel19/gallery1.jpg",
+      "assets/images/hotel19/gallery2.jpg",
+      "assets/images/hotel19/gallery3.jpg"
+    ],
+    "price": 106.50,
+    "coordinate": {
+      "latitude": 21.059658,
+      "longitude": 105.831779
+    },
+    "ratingScore": 4.5
+  },
+  {
+    "id": "20",
+    "title": "L7 WEST LAKE HANOI BY LOTTE",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/hotel20/avatar.png",
+    "address": "Ngõ 683 Đ. Lạc Long Quân, Phú Thượng, Tây Hồ, Hà Nội 100000, Việt Nam",
+    "phone": "02433339000",
+    "description": " Khu vực ven hồ thượng lưu mang nét đặc trưng riêng với các nhà hàng toàn cầu thanh lịch, quán bar sành điệu và Chùa Trấn Quốc cổ kính.",
+    "imagePaths": [
+      "assets/images/hotel20/gallery1.jpg",
+      "assets/images/hotel20/gallery2.jpg",
+      "assets/images/hotel20/gallery3.jpg"
+    ],
+    "price": 67.57,
+    "coordinate": {
+      "latitude": 21.074151,
+      "longitude": 105.812492
+    },
+    "ratingScore": 4.7
+  }
+]

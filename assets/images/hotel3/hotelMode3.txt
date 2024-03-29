@@ -1,0 +1,20 @@
+{
+    "id": "3",
+    "title": "Hotel The Hanoi",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "lô 3B P. Thâm Tâm, Yên Hoà, Cầu Giấy, Hà Nội, Việt Nam",
+    "phone": "02432011711",
+    "description": "Phục vụ chu đáo, tận tình.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 1200000,
+    "coordinate": {
+      "latitude": 21.016143,
+      "longitude": 105.799089
+    },
+    "totalReview": 4.9
+  }, 

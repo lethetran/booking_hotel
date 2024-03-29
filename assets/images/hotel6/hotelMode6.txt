@@ -1,0 +1,20 @@
+{
+    "id": "6",
+    "title": "Roygent Parks Hanoi",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "289 Khuất Duy Tiến, Trung Hoà, Cầu Giấy, Hà Nội, Việt Nam",
+    "phone": "02432323760",
+    "description": "Khu vực nhộn nhịp mang nét đặc trưng riêng với các triển lãm dân gian tại Bảo tàng Dân tộc học, cùng các món ăn dân dã của Việt Nam và Hàn Quốc.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 1700000,
+    "coordinate": {
+      "latitude": 21.002031,
+      "longitude": 105.793531
+    },
+    "totalReview": 4.6
+  },

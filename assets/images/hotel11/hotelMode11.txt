@@ -1,0 +1,20 @@
+{
+    "id": "11",
+    "title": "Sofitel Legend Metropole Hotel",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "15 P. Ngô Quyền, Street, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+    "phone": "02438266919",
+    "description": "Khu vực trung tâm ghi dấu ấn riêng với các cửa hàng đồ thủ công và ẩm thực đường phố trong khu phố cổ, cùng Nhà thờ Lớn Hà Nội.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 9990000,
+    "coordinate": {
+      "latitude": 21.025083,
+      "longitude": 105.856311
+    },
+    "totalReview": 4.7
+  },

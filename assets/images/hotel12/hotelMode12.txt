@@ -1,0 +1,20 @@
+{
+    "id": "12",
+    "title": "Khách sạn Lotte Hà Nội",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội 100000, Việt Nam",
+    "phone": "02433331000",
+    "description": "Khu vực thanh bình có Bảo tàng Hồ Chí Minh và Vườn Bách thảo Hà Nội cùng nhiều hàng quán bình dân bán đồ Việt.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 3870000,
+    "coordinate": {
+      "latitude": 21.031696,
+      "longitude": 105.812755
+    },
+    "totalReview": 4.6
+  },

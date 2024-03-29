@@ -1,0 +1,20 @@
+{
+    "id": "18",
+    "title": "Hotel du Parc Hanoi",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "84 P. Trần Nhân Tông, Nguyễn Du, Hai Bà Trưng, Hà Nội 100000, Việt Nam",
+    "phone": "02438223535",
+    "description": "Khu vực đông đúc dân cư ghi dấu ấn riêng với hoạt động chèo thuyền trong Công viên Thống Nhất, Thủy cung Times City và các nhà hàng sushi.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 1910000,
+    "coordinate": {
+      "latitude": 21.017677,
+      "longitude": 105.842029
+    },
+    "totalReview": 4.4
+  },

@@ -1,0 +1,20 @@
+{
+    "id": "7",
+    "title": "Grand Mercure Hanoi",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "9 P. Cát Linh, Quốc Tử Giám, Đống Đa, Hà Nội 100000, Việt Nam",
+    "phone": "02432115757",
+    "description": "Khu phố nhộn nhịp để lại dấu ấn riêng với khung cảnh ẩm thực đa dạng và khu phức hợp Văn Miếu - Quốc Tử Giám.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 4260000,
+    "coordinate": {
+      "latitude": 21.027455,
+      "longitude": 105.833389
+    },
+    "totalReview": 4.7
+  },

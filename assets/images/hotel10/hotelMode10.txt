@@ -1,0 +1,20 @@
+{
+    "id": "10",
+    "title": "Fraser Residence Hà Nội",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "C5 Đường Đỗ Nhuận, Xuân Đỉnh, Bắc Từ Liêm, Hà Nội 100000, Việt Nam",
+    "phone": "02432750888",
+    "description": "Khách sạn toàn phòng suite trang nhã này là một toà cao ốc đẹp mắt, cách công viên (có hồ nước) 2 phút đi bộ, cách Bảo tàng Dân tộc học Việt Nam 4 km và cách Sân bay Quốc tế Nội Bài 18 km.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 2070000,
+    "coordinate": {
+      "latitude": 21.016806,
+      "longitude": 105.783722
+    },
+    "totalReview": 4.8
+  },

@@ -1,0 +1,20 @@
+{
+    "id": "1",
+    "title": "Intercontinental Hanoi Landmark Hotel",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar1.png",
+    "address": "Urban Area, Keangnam Hanoi Landmark Tower, Plot E6, Keangnam, Cầu Giấy, Hà Nội, Việt Nam",
+    "phone": "02436988888",
+    "description": "Khách sạn thoáng mát, sang trọng và cao tầng này có tầm nhìn ra thành phố Hà Nội, cách Trung Tâm Hội Nghị Quốc Gia 2 km và cách Sân bay Quốc tế Nội Bài 25 km.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 8000000,
+    "coordinate": {
+      "latitude": 21.016806,
+      "longitude": 105.783722
+    },
+    "totalReview": 4.7
+  },

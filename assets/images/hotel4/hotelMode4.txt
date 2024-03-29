@@ -1,0 +1,20 @@
+{
+    "id": "4",
+    "title": "JW Marriott Hotel Hanoi",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "No 8 P. Đỗ Đức Dục, Road, Nam Từ Liêm, Hà Nội 100000, Việt Nam",
+    "phone": "02438335588",
+    "description": "Khách sạn sang trọng nằm trong tòa nhà ven hồ đẹp mắt, cách Trung tâm Hội nghị Quốc gia Việt Nam 8 phút đi bộ, cách khu Phố cổ sôi động 9 km và cách Sân bay Quốc tế Nội Bài 27 km..",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 7200000,
+    "coordinate": {
+      "latitude": 21.006963,
+      "longitude": 105.783059
+    },
+    "totalReview": 4.7
+  },

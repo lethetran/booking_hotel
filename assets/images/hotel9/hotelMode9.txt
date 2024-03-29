@@ -1,0 +1,20 @@
+{
+    "id": "9",
+    "title": "Capella Hanoi",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "11 P. Lê Phụng Hiểu, French Quarter, Hoàn Kiếm, Hà Nội 100000, Việt Nam",
+    "phone": "02439878888",
+    "description": "Khu vực trung tâm ghi dấu ấn riêng với các cửa hàng đồ thủ công và ẩm thực đường phố trong khu phố cổ, cùng Nhà thờ Lớn Hà Nội.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 21000000,
+    "coordinate": {
+      "latitude": 21.025725,
+      "longitude": 105.856706
+    },
+    "totalReview": 4.8
+  },

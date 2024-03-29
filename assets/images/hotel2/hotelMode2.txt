@@ -1,0 +1,20 @@
+{
+    "id": "2",
+    "title": "Aspaces Serviced Apartments",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "Vinhomes West Point, Phạm Hùng, Mễ Trì, Nam Từ Liêm, Hà Nội 10000, Việt Nam",
+    "phone": "0866615777",
+    "description": "Phục vụ chu đáo, tận tâm",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 2500000,
+    "coordinate": {
+      "latitude": 21.011662,
+      "longitude": 105.785940
+    },
+    "totalReview": 5
+  },

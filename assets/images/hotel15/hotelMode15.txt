@@ -1,0 +1,20 @@
+{
+    "id": "15",
+    "title": "Pullman Hanoi Hotel",
+    "location": "Hà Nội",
+    "avatarHotel": "assets/images/avatar.png",
+    "address": "Str Entrance, 40, P. Cát Linh/61 P. Giảng Võ, Hà Nội 010000, Việt Nam",
+    "phone": "02437330688",
+    "description": "Khu phố nhộn nhịp để lại dấu ấn riêng với khung cảnh ẩm thực đa dạng và khu phức hợp Văn Miếu - Quốc Tử Giám.",
+    "imagePaths": [
+      "assets/images/gallery1.jpg",
+      "assets/images/gallery2.jpg",
+      "assets/images/gallery3.jpg"
+    ],
+    "price": 2880000,
+    "coordinate": {
+      "latitude": 21.029847,
+      "longitude": 105.828513
+    },
+    "totalReview": 4.4
+  },
